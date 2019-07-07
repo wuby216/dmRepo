@@ -72,7 +72,7 @@ class Cards extends Component {
                     </div>
 
                     <div className="title">
-                        <p className="user-name">{resItems.users[0].name}</p>
+                        <p className="user-name">{resItems.users[card.user].name}</p>
                         <p className="title-content">{card.title}</p>
                     </div>
 

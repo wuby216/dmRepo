@@ -89,6 +89,7 @@
 }
 
 .title {
+    width: 240px;
     display: flex;
     margin-top: 16px;
 }
@@ -98,7 +99,6 @@
 }
 
 .title-content {
-    width: 200px;
     height: 16.5px;
     font-family: Arial;
     font-size: 14px;
